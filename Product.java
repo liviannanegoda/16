@@ -4,7 +4,6 @@ public class Product{
     String brand;
     double price;
     Product(){
-        brand ="<brand>";
         price = 200;
     }
 String displayInfo(){
